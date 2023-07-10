@@ -1,5 +1,5 @@
 .body{
-   font-family: 'Eczar', serif;
+   font-family: sans-serif,Helvetica,Arial;
    
 }
 .topbar {
@@ -42,7 +42,7 @@
 }
 
 .navbar{
-    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family:sans-serif,Helvetica,Arial;
    font-weight: 400;
    
 }
@@ -89,13 +89,13 @@
 }
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 .content h3{
-    font-family: 'Poppins ', sans-serif;
+    font-family: sans-serif,Helvetica,Arial;;
     font-weight: 300;
     margin-top: 3%;
    margin-left: 22%;
 }
 .content p{
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: sans-serif,Helvetica,Arial;
     font-weight: 300;
     margin-top: 3%;
     margin-left: 4.5em;
@@ -203,7 +203,7 @@
 /* video content css starts from here */
 #chahojo{
     text-align: center;
-    font-family: "Sofia", sans-serif;
+    font-family: sans-serif,Helvetica,Arial;
     font-size: 70px;
     color: #1A4C87;
     font-weight: 600;
@@ -215,7 +215,7 @@
 }
 #watch-video{
     border: 1px;
-    font-family: 'Poppins ', sans-serif;
+    font-family: sans-serif,Helvetica,Arial;
     font-size: 20px;
     color: white;
     background-color: #1A4C87;
@@ -226,7 +226,7 @@
 
 }
 #video-content{
-    font-family: 'Poppins ', sans-serif;
+    font-family: sans-serif,Helvetica,Arial;
     font-size: 18px;
     color: #616161;
     margin-top: 5%;
@@ -274,7 +274,7 @@ footer{
 .col{
     min-width: 250px;
     color: gray;
-    font-family: poppins;
+    font-family: sans-serif,Helvetica,Arial;
     padding: 0 2rem;
 }
 .col h3{
@@ -282,7 +282,7 @@ footer{
     margin-bottom: 15px;
     position: relative;
     cursor: pointer;
-    font-family: poppins;
+    font-family: sans-serif,Helvetica,Arial;
     font-weight: 900;
 }
 .col h4{
@@ -350,7 +350,7 @@ footer{
 }
 .para{
     line-height: 2;
-    font-family: poppins;
+    font-family: sans-serif,Helvetica,Arial;
     font-size: 12px;
 
 }
